@@ -2,9 +2,13 @@
   "name": "picog-firmware-development",
   "displayName": "picoG Firmware Development",
   "description": "Common tools for developing and building picoG firmware.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "picoG",
   "icon": "images/picoGsymbol.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PicoG/VSCodeExtPack.git"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
