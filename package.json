@@ -1,0 +1,21 @@
+{
+  "name": "picog-firmware-development",
+  "displayName": "picoG Firmware Development",
+  "description": "Common tools for developing and building picoG firmware.",
+  "version": "0.0.1",
+  "publisher": "picoG",
+  "icon": "images/picoGsymbol.png",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cmake-tools", 
+    "ms-vscode.cpptools", 
+    "ms-vscode.cpptools-extension-pack", 
+    "ms-vscode.cpptools-themes", 
+    "twxs.cmake"
+  ]
+}
